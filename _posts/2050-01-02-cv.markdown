@@ -1,0 +1,19 @@
+---
+layout: post
+title: Hire me - CV (downloadable)
+lang: en
+ref: 0cv
+date: 2018-04-16 08:32:20 +0300
+description: My CV (downloadable) # Add post description (optional)
+img: handshake.jpg # Add image post (optional)
+tags: [CV]
+---
+If you are in search of a high motivated professionell software developer with knowledge in topics like 
+C#, .Net, Microservices, CI/CD, software architecture and IoT, you’re in the right place. <a href="mailto:contact@pierrewilken.de">Get in touch</a> to discuss your needs now!
+
+<object data="https://pwilken.github.io/data/PierreJackWilken_CV.pdf" type="application/pdf" width="1000px" height="1200px">
+    <embed src="https://pwilken.github.io/data/PierreJackWilken_CV.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://pwilken.github.io/data/PierreJackWilken_CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
