@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<script>
+  let userLang = navigator.language || navigator.userLanguage;
+
+  if (userLang.includes('de'))
+    window.location.href = "https://pierrewilken.de/mainpage_de.html";
+  else
+    window.location.href = "https://pierrewilken.de/mainpage_en.html";
+</script>
