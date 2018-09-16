@@ -28,11 +28,11 @@ Bei Wunsch kümmere ich mich selbstverständlich auch um das Hosting, eine Versc
 &nbsp;
 &nbsp;
 
-<a href="https://ososystem.de" rel="oso-system">![Foo]({{site.url}}/assets/websites/ososystem.png){:width="350px"}
+<a href="https://ososystem.de" rel="oso-system">![ososystem]({{site.url}}/assets/websites/ososystem.PNG){:width="350px"}
 
 &nbsp;
 &nbsp;
 
-<a href="https://digitalriding.de" rel="digitalridng">![Foo]({{site.url}}/assets/websites/digitalriding.png){:width="350px"}
+<a href="https://digitalriding.de" rel="digitalridng">![digitalriding]({{site.url}}/assets/websites/digitalriding.PNG){:width="350px"}
 </a>
 
