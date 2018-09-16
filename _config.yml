@@ -1,0 +1,34 @@
+title: Pierre Jack Wilken, Germany
+description: > # this means to ignore newlines until "baseurl:"
+  Software developing, Software architecture, DevOps, CI/CD, Microservices, Docker, Rancher, C#, .Net, IoT, NFC, Webservices... 
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://pierrewilken.de" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Pierre Jack Wilken # add your name
+author-img: pierre-wilken.jpg # add your photo
+about-author: I am a german software developer focusing on back-end development. Interested into DevOps, Microservices, IoT, AI and software architecture. # add description
+about-author-de: Softwareentwickler mit dem Schwerpunkt Backend-Entwicklung. Besonders interessiert an DevOps, Microservices, IoT, AI und Softwarearchitektur.
+social-facebook: peroswilkos # add your Facebook handle
+social-github: pwilken # add your Github handle
+social-linkedin: pierrewilken # add your Linkedin handle
+social-email: contact@pierrewilken.de # add your Email address
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: UA-117726176-1 # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
