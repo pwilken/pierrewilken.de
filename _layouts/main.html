@@ -11,8 +11,18 @@ layout: default
       <div class="author-name">{{site.author}}</div>
       {% if page.lang == 'de' %}
         <p>{{site.about-author-de}}</p>
+        </br>
+        <h3 class="contact-title">Aktuelle Projekte</h3>
+        <p style="font-size: 0.85em">
+          <a href="https://ososystem.de">OSO-System</a>
+        </p>
       {% else %}
         <p>{{site.about-author}}</p>
+        </br>
+        <h3 class="contact-title">Current Projects</h3>
+        <p style="font-size: 0.85em">
+            <a href="https://ososystem.de">OSO-System</a>
+        </p>
       {% endif %}
     </div>
                   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}

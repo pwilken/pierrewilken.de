@@ -1,6 +1,7 @@
+<!---
 ---
 layout: post
-title: Einstieg in React Native unter Windows
+title: Einstieg in React Native
 lang: de
 ref: rnintrowin
 date: 2018-09-01 11:30:00 +0300
@@ -13,3 +14,4 @@ tags: [React Native, Einstieg, Tutorial, How To, Start, Android, iOS]
 
 
 
+--->

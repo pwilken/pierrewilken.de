@@ -24,7 +24,18 @@ Of course, if needed I also take care of the hosting, an encrypted data transfer
 &nbsp;
 &nbsp;
 
-<a href="https://beste-party-musik.de" rel="beste-party-musik">![Foo](https://beste-party-musik.de/assets/images/logo8-transparent.png){:width="350px"}</a>
+<a href="https://beste-party-musik.de" rel="beste-party-musik">![Foo](https://beste-party-musik.de/assets/images/logo8-transparent.png){:width="350px"}
+
+&nbsp;
+&nbsp;
+
+<a href="https://ososystem.de" rel="oso-system">![Foo]({{site.url}}/assets/websites/ososystem.png){:width="350px"}
+
+&nbsp;
+&nbsp;
+
+<a href="https://digitalriding.de" rel="digitalridng">![Foo]({{site.url}}/assets/websites/digitalriding.png){:width="350px"}
+</a>
 
 
 
