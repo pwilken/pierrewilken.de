@@ -1,0 +1,23 @@
+- title: IT-Infrastructure
+  desc: High-availability cluster, Scalability, Container based, Bare-Metal-Server, Cloud
+  #progress: 90%
+
+- title: DevOps
+  desc: CI/CD, infrastructure as code, development stacks, code quality strategies, testing and deployment strategies
+  #progress: 85% 
+
+- title: Software Architecture
+  desc: Refactoring legacy code, modularisation, microservices
+  #progress: 80%
+
+- title: Rancher & Kubernetes
+  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  #progress: 90%
+
+- title: Tools and Plattforms
+  desc: AWS, GitLab, GitHub, Elastic, Prometheus, Postgres
+  #progress: 90% 
+
+- title: Programming
+  desc: Java & Spring, C# & .net-core, SQL, PL/SQL, Kotlin, Shell-scripting, YAML
+  #progress: 80%
