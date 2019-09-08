@@ -24,8 +24,8 @@ url: "http:///localhost.de" # the base hostname & protocol for your site, e.g. h
 twitter_username: pwilken
 github_username:  pwilken
 
-facebook_url: 'http://facebook.com/peroswilkos'
-twitter_url: 'http://twitter.com/pwilken'
+#facebook_url: 'http://facebook.com/peroswilkos'
+twitter_url: 'http://twitter.com/PierreWilken'
 github_url: 'http://github.com/pwilken'
 #youtube_url: 'http://youtube.com/themeix'
 #google_plus_url: 'http://plus.google.com'

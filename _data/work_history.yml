@@ -1,19 +1,14 @@
 - year: 2015 - 2019
   logo: assets/images/th-logo-small.png
-  url: http://facebook.com
+  url: https://www.th-koeln.de/
   desc: B.A. Computer Science
 
 - year: 2017
   logo: assets/images/ntust-logo-small.png
-  url: http://google.com
+  url: https://www.ntust.edu.tw/home.php?Lang=En
   desc: Dynamic and mathematical programming
-
-- year: 2012 - 2015
-  logo: assets/images/treesoft-logo-small.png
-  url: http://envato.com
-  desc: Certified IT specialists for application development 
 
 - year: 2009 - 2012
   logo: assets/images/bko-logo-small-2.png
-  url: http://envato.com
+  url: https://bk-dieringhausen.de/technik/h%C3%B6here-berufsfachschule/it-assistent.html
   desc: Certified assistant for information technology

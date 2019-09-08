@@ -3,7 +3,7 @@
   #progress: 90%
 
 - title: DevOps
-  desc: CI/CD, infrastructure as code, development stacks, code quality strategies, testing and deployment strategies
+  desc: Infrastructure as code, development stacks, CI/CD, Monitoring, Logging, Security
   #progress: 85% 
 
 - title: Software Architecture
@@ -11,13 +11,13 @@
   #progress: 80%
 
 - title: Rancher & Kubernetes
-  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+  desc: Creation and operation of kubernetes clusters with or without Rancher.
   #progress: 90%
 
 - title: Tools and Plattforms
-  desc: AWS, GitLab, GitHub, Elastic, Prometheus, Postgres
+  desc: AWS, GitLab, GitHub, Elastic, Prometheus, Postgres, Helm, Kubernetes-Operator
   #progress: 90% 
 
 - title: Programming
-  desc: Java & Spring, C# & .net-core, SQL, PL/SQL, Kotlin, Shell-scripting, YAML
+  desc: Java & Spring, C# & .net-core, SQL, PL/SQL, Kotlin, Shell-scripting, YAML, REST
   #progress: 80%
