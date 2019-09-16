@@ -1,34 +1,50 @@
-title: Pierre Jack Wilken, Germany
-description: > # this means to ignore newlines until "baseurl:"
-  Software developing, Software architecture, DevOps, CI/CD, Microservices, Docker, Rancher, C#, .Net, IoT, NFC, Webservices... 
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://pierrewilken.de" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Author Settings
-author: Pierre Jack Wilken # add your name
-author-img: pierre-wilken.jpg # add your photo
-about-author: I am a german software developer focusing on back-end development. Interested into DevOps, Microservices, IoT, AI and software architecture. # add description
-about-author-de: Softwareentwickler mit dem Schwerpunkt Backend-Entwicklung. Besonders interessiert an DevOps, Microservices, IoT, AI und Softwarearchitektur.
-social-facebook: peroswilkos # add your Facebook handle
-social-github: pwilken # add your Github handle
-social-linkedin: pierrewilken # add your Linkedin handle
-social-email: contact@pierrewilken.de # add your Email address
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-# Disqus
-discus-identifier: mr-brown # add your discus identifier
+title: Pierre Jack Wilken
+email: kontakt@pierrewilken.de
+description: >- # this means to ignore newlines until "baseurl:"
+  Pierre Jack Wilken - specialized in Open Source, Software Architecture, IT Infrastructure and DevOps.
+  It's definitely not just about technologies, combining tech with a good work/life culture and an understanding of patterns and improvement processes makes it.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https:///pierrewilken.de" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: pwilken
+github_username:  pwilken
 
-# Tracker
-analytics: UA-117726176-1 # Google Analytics
+#facebook_url: 'http://facebook.com/peroswilkos'
+twitter_url: 'http://twitter.com/PierreWilken'
+github_url: 'http://github.com/pwilken'
+#youtube_url: 'http://youtube.com/themeix'
+#google_plus_url: 'http://plus.google.com'
+#pinterest_url: 'http://pinterest.com'
 
-# Build Settings
+# Build settings
 markdown: kramdown
+theme: minima
 plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
+  - jekyll-feed
 
-paginate: 8
-paginate_path: "/page/:num"
-
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

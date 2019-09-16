@@ -1,0 +1,11 @@
+- title: Consulting
+  desc: DevOps, IT Infrastructure, Software Architecture, Software Development, Open Source
+  icon: assets/images/services-icon-brush.png
+
+- title: Workshops
+  desc: DevOps tools and culture, Software resilience, IT Infrastructure (Scalability, High Availability)
+  icon: assets/images/services-icon-java.png
+  
+- title: Webservices
+  desc: Development and hosting of webservices
+  icon: assets/images/services-icon-coding.png
