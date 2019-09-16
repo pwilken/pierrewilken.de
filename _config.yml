@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Pierre Jack Wilken - specialized in Open Source, Software Architecture, IT Infrastructure and DevOps.
   It's definitely not just about technologies, combining tech with a good work/life culture and an understanding of patterns and improvement processes makes it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http:///localhost.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https:///pierrewilken.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pwilken
 github_username:  pwilken
 
