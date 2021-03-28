@@ -23,10 +23,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https:///pierrewilken.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pwilken
 github_username:  pwilken
+linkedin_username: pierrewilken
 
 #facebook_url: 'http://facebook.com/peroswilkos'
 twitter_url: 'http://twitter.com/PierreWilken'
 github_url: 'http://github.com/pwilken'
+linkedin_url: 'https://www.linkedin.com/in/pierrewilken/'
 #youtube_url: 'http://youtube.com/themeix'
 #google_plus_url: 'http://plus.google.com'
 #pinterest_url: 'http://pinterest.com'
