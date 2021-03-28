@@ -1,11 +1,11 @@
+- title: Mentoring
+  desc: Becoming a Tech-Leader
+  icon: assets/images/services-icon-java.png
+
 - title: Consulting
-  desc: DevOps, IT Infrastructure, Software Architecture, Software Development, Open Source
+  desc: IT Infrastructure, Software Development, DevOps
   icon: assets/images/services-icon-brush.png
 
-- title: Workshops
-  desc: DevOps tools and culture, Software resilience, IT Infrastructure (Scalability, High Availability)
-  icon: assets/images/services-icon-java.png
-  
-- title: Webservices
-  desc: Development and hosting of webservices
+- title: Outsourcing and Recruiting
+  desc: Finding the right IT experts for you
   icon: assets/images/services-icon-coding.png
